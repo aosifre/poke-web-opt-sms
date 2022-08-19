@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660914691688,
+  "timestamp": 1660915370792,
   "index": "https://aosifre.github.io/poke-web-opt-sms/index.html",
   "assetGroups": [
     {
@@ -15,10 +15,14 @@
         "https://aosifre.github.io/poke-web-opt-sms/index.html",
         "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js",
         "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js",
+        "https://aosifre.github.io/poke-web-opt-sms/main.d592abe8f7a10f066470.js",
         "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest",
+        "https://aosifre.github.io/poke-web-opt-sms/ngsw-worker.js",
         "https://aosifre.github.io/poke-web-opt-sms/polyfills.8c151b8375e767ff858f.js",
         "https://aosifre.github.io/poke-web-opt-sms/runtime.0e49e2b53282f40c8925.js",
-        "https://aosifre.github.io/poke-web-opt-sms/styles.5e75a90651128096d5cb.css"
+        "https://aosifre.github.io/poke-web-opt-sms/safety-worker.js",
+        "https://aosifre.github.io/poke-web-opt-sms/styles.5e75a90651128096d5cb.css",
+        "https://aosifre.github.io/poke-web-opt-sms/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -53,13 +57,17 @@
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://aosifre.github.io/poke-web-opt-sms/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://aosifre.github.io/poke-web-opt-sms/index.html": "daabce92ec7a581507fda87b80648ad4f9f1305b",
+    "https://aosifre.github.io/poke-web-opt-sms/index.html": "0e47cab537b4e80075b971a9b3560ddff405960c",
     "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js": "8f13276f32fe1f0408f3a8aa7f5232030748393f",
     "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js": "14e7eb8f981750c72c0cd240e26e81bc7ff0339a",
+    "https://aosifre.github.io/poke-web-opt-sms/main.d592abe8f7a10f066470.js": "f5c770fa239d4c108a37a5fc2453956b7d88da91",
     "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest": "dc8e4c657bfd65d4faac8003862026e95b69bc04",
+    "https://aosifre.github.io/poke-web-opt-sms/ngsw-worker.js": "797f4191da12a5f8237623a7c89182da1e68df9c",
     "https://aosifre.github.io/poke-web-opt-sms/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "https://aosifre.github.io/poke-web-opt-sms/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://aosifre.github.io/poke-web-opt-sms/styles.5e75a90651128096d5cb.css": "4354f15e09c5d844566c515b51c38aa14ab144a5"
+    "https://aosifre.github.io/poke-web-opt-sms/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
+    "https://aosifre.github.io/poke-web-opt-sms/styles.5e75a90651128096d5cb.css": "4354f15e09c5d844566c515b51c38aa14ab144a5",
+    "https://aosifre.github.io/poke-web-opt-sms/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
   },
   "navigationUrls": [
     {
