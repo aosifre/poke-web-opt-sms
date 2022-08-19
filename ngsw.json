@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660915370792,
+  "timestamp": 1660915685179,
   "index": "https://aosifre.github.io/poke-web-opt-sms/index.html",
   "assetGroups": [
     {
@@ -15,6 +15,7 @@
         "https://aosifre.github.io/poke-web-opt-sms/index.html",
         "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js",
         "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js",
+        "https://aosifre.github.io/poke-web-opt-sms/main.b1ed19e6173e9a502004.js",
         "https://aosifre.github.io/poke-web-opt-sms/main.d592abe8f7a10f066470.js",
         "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest",
         "https://aosifre.github.io/poke-web-opt-sms/ngsw-worker.js",
@@ -57,9 +58,10 @@
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://aosifre.github.io/poke-web-opt-sms/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://aosifre.github.io/poke-web-opt-sms/index.html": "0e47cab537b4e80075b971a9b3560ddff405960c",
+    "https://aosifre.github.io/poke-web-opt-sms/index.html": "0f9aea9ae950710bcb9988ed8fadbd52afc7d053",
     "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js": "8f13276f32fe1f0408f3a8aa7f5232030748393f",
     "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js": "14e7eb8f981750c72c0cd240e26e81bc7ff0339a",
+    "https://aosifre.github.io/poke-web-opt-sms/main.b1ed19e6173e9a502004.js": "2c78eb005e46400fe343fc4978f8c667a69f189d",
     "https://aosifre.github.io/poke-web-opt-sms/main.d592abe8f7a10f066470.js": "f5c770fa239d4c108a37a5fc2453956b7d88da91",
     "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest": "dc8e4c657bfd65d4faac8003862026e95b69bc04",
     "https://aosifre.github.io/poke-web-opt-sms/ngsw-worker.js": "797f4191da12a5f8237623a7c89182da1e68df9c",
