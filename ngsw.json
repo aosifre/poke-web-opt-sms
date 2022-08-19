@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660912266436,
+  "timestamp": 1660914691688,
   "index": "https://aosifre.github.io/poke-web-opt-sms/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,8 @@
       "urls": [
         "https://aosifre.github.io/poke-web-opt-sms/favicon.ico",
         "https://aosifre.github.io/poke-web-opt-sms/index.html",
-        "https://aosifre.github.io/poke-web-opt-sms/main.73dcf13bff84cf546a8e.js",
+        "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js",
+        "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js",
         "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest",
         "https://aosifre.github.io/poke-web-opt-sms/polyfills.8c151b8375e767ff858f.js",
         "https://aosifre.github.io/poke-web-opt-sms/runtime.0e49e2b53282f40c8925.js",
@@ -52,8 +53,9 @@
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://aosifre.github.io/poke-web-opt-sms/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://aosifre.github.io/poke-web-opt-sms/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://aosifre.github.io/poke-web-opt-sms/index.html": "bcccee7289daf18d2716396018690fda6e7fbd24",
-    "https://aosifre.github.io/poke-web-opt-sms/main.73dcf13bff84cf546a8e.js": "d11c4bc4dbea859c4ba651ab25c8b9e09f3a5934",
+    "https://aosifre.github.io/poke-web-opt-sms/index.html": "daabce92ec7a581507fda87b80648ad4f9f1305b",
+    "https://aosifre.github.io/poke-web-opt-sms/karma.conf.js": "8f13276f32fe1f0408f3a8aa7f5232030748393f",
+    "https://aosifre.github.io/poke-web-opt-sms/main.ae76551e4a083bfcb198.js": "14e7eb8f981750c72c0cd240e26e81bc7ff0339a",
     "https://aosifre.github.io/poke-web-opt-sms/manifest.webmanifest": "dc8e4c657bfd65d4faac8003862026e95b69bc04",
     "https://aosifre.github.io/poke-web-opt-sms/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "https://aosifre.github.io/poke-web-opt-sms/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
